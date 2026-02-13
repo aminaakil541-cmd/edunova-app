@@ -1,0 +1,7 @@
+{
+  "name": "EduNova - Premium Student Dashboard",
+  "description": "A high-end, glassmorphism-style educational dashboard for students to track grades, schedules, and use AI-powered tutoring.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
